@@ -1,0 +1,1 @@
+复制main下addchcore.mod和同名目录到游戏安装目录下mod目录中即可(如没有mod目录，请先自建).

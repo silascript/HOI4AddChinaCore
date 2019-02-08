@@ -1,0 +1,76 @@
+﻿
+添加部分领土为中国核心
+
+2018-04-08 16:15 适配1.5.1
+
+2017-06-23 00:53 适配1.4.0
+
+2016-12-28 22:00 适配1.3.1
+
+2016-10-04 20:18 重制Mod并适配1.2.1
+
+2016-09-19 07:45 修改Lao和Annam两文件，并更改版本号支持1.2.0
+
+2016-06-30 21:45 更新支持1.1.0
+
+2016-06-18 02:17
+	添加加原属唐朝关内道及陇右道部分领土
+1.
+	添加核心:		Irkutsk(伊尔库茨克)--566-TS 8 文件
+	添加核心:		Bratsk(布拉茨克)--567-TS 9 文件
+	添加核心:		Ulan Ude(乌兰乌德)--564-TS 6 文件	
+	添加核心:		Bodaybo(博代博)--565-TS 7 文件	
+	添加核心:		Ur Gench(乌尔根奇)--585-Uzbekistan 文件
+	添加核心:		Kzyl Orda(克孜奥尔达)--404-Saykhin 文件
+	添加核心:		Tashkent(塔什干)--405-Atyrau 文件
+
+2.
+	添加核心:		Semipalatinsk(塞米巴拉金斯克)--588-Some Mountains 文件
+	添加核心:		Barnaul(巴尔瑙尔)--40-USSR 文件
+	添加核心:		Gorno-AltaYsk(戈尔诺-阿尔泰斯克)--654-sov state 8 文件
+
+
+
+2016-06-14 20:07
+更新支持1.0.1版本
+
+
+2016-06-12 01:38 
+1.
+	添加核心:		Amur(阿穆尔)--561-TS 3文件
+	添加核心:		Nikolayevsk(尼古拉耶夫斯克/庙街)--560-TS 2文件
+	添加核心:		Khabarovsk(哈巴罗夫斯克/伯利)--409-Khabarovsk文件
+	添加核心:		Vladivostok(符拉迪沃斯托克/海参崴)--408-Vladivostok文件
+	添加核心:		Chita(赤塔)--563-TS 5文件
+	添加核心:		North Sakhalin、South Sakhalin(北萨哈林、南萨哈林/库页岛)
+				--537-South Sakhalin文件和655-North Sakhalin文件
+	添加核心:		Birobidzhan(比罗比詹)--657-Border state文件
+
+	添加核心:		Alma-Ata(阿拉木图)
+				--586-Kyrgyzstan文件
+				(文件中注释误写成"Alma Alta",
+				但通过state_names_I_english.yml文件中的描述应该是此文件无误)
+
+	添加核心:		AYaguz(巴勒喀什)--589-Eastern Kazakhstan文件
+
+	添加核心:		pamir(帕米尔)--732-Pamir文件
+
+2.
+	添加核心:		北朝鲜全境--527-North Korea文件
+
+3.
+	移除琉球的包括中国日本在内所有核心
+
+4.
+	添加核心:		Tonkin(东京湾/北部湾)--671-Annam文件
+	添加核心:		Laos(老挝)--670-Laos文件
+
+
+
+
+
+
+
+
+
+
