@@ -3,4 +3,4 @@ path="mod/addchcore/"
 tags={
 	"Historical"
 }
-supported_version="1.6.*"
+supported_version="1.7.*"
