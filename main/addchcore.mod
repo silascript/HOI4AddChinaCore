@@ -1,7 +1,7 @@
-version="2.0"
+version="2.5"
 name="AddChinaCore"
 path="mod/addchcore/"
 tags={
 	"Historical"
 }
-supported_version="1.9.*"
+supported_version="1.10.*"
