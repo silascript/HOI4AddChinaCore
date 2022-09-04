@@ -9,15 +9,9 @@ state={
 	history={
 		owner = JAP
 		add_core_of = JAP
+
 		add_core_of = CHI
 		add_core_of = PRC
-		add_core_of = GXC
-		add_core_of = SHX
-		add_core_of = XSM
-		add_core_of = MEN
-		add_core_of = MAN
-		add_core_of = YUN
-		add_core_of = SIK
 		
 		buildings = {
 			infrastructure = 2
